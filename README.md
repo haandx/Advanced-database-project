@@ -28,12 +28,10 @@ Describes scope and boundaries of database system and the major user views.
 
 ## 4-Requirement collection and analysis:
 We have used the technique of open-ended questionnaires
-<img src= "https://github.com/haandx/Advanced-database-project/assets/142608001/ec5b0538-446c-43b0-8020-f09600433251" width = "500">
 
 
-## 4-Requirement collection and analysis:
-We have used the technique of open-ended questionnaires
 <img src= "https://github.com/haandx/Advanced-database-project/assets/142608001/ec5b0538-446c-43b0-8020-f09600433251" width = "500">
+
 
 
 ## ER MODEL:
